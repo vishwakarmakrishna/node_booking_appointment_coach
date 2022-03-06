@@ -2,7 +2,7 @@
 
 ## Appointment: Exercise Instruction
 * Using the dataset mentioned below that contains the active coaches and the weekly schedule of their available hours
-    * [Dataset](Dataset.csv)
+    * [Dataset](dataset.csv)
 * Create the following API’s
     * I want to see which coaches I can schedule with.
     * I want to see what 30-minute time slots are available to schedule with a particular coach.
